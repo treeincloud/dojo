@@ -1,0 +1,20 @@
+date: 2026-06-22
+student: Евгений
+session: onboarding
+topics:
+  - fork
+  - files
+  - commits
+randori:
+  score: 3/3
+  questions:
+    - q: "Что произойдёт с форком, если оригинал изменится?"
+      a: "Ничего, форк останется как был"
+      result: pass
+    - q: "Как сохранить изменения в истории?"
+      a: "Commit changes"
+      result: pass
+    - q: "Что говорит сообщение коммита?"
+      a: "Описывает что было сделано"
+      result: pass
+notes: First session. Onboarding complete. GitHub basics passed 3/3.
